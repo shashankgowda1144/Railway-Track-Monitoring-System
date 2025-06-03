@@ -8,3 +8,5 @@ Focus Of Expansion coordinates determined by computing the intersection between 
 Wrongly matched keypoints filtering, thanks to the Focus Of Expansion tracking, evaluating their optical flow direction, displayed in white for the complete scenario.
 
 https://raw.githubusercontent.com/federicafioretti/railway-detection/master/image-readme/execution.png
+
+![Alt Text](https://raw.githubusercontent.com/federicafioretti/railway-detection/master/image-readme/execution.png)
