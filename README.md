@@ -1,5 +1,5 @@
 # Railway-Track-Monitoring-System
-=================================
+
 The railway analysis performed by this program (in Python 2.7, using OpenCV 3.3) addresses the following tasks:
 * Detection of the turn markings and kilometer signs (Italian Railway) thanks to the **HAAR
 cascade classifiers** previously trained using OpenCV.
