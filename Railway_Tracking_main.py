@@ -166,7 +166,6 @@ def main():
         km_bbox = km_cascade.detectMultiScale(frame, scaleFactor=1.1, minNeighbors=3, minSize=(22, 107),
                                               flags=cv2.CASCADE_SCALE_IMAGE)
 
-
         if not firstFrame:
 
             # brute force feature matching
@@ -217,7 +216,6 @@ def main():
                                                                                             expt_start=expt_startRight,
                                                                                             max_displacement=20,
                                                                                             )
-
 
             # view the portion of image where rail lines have been detected
             railL.patch_wRails(watch_rails, eval_frameL, eval_frameR)
