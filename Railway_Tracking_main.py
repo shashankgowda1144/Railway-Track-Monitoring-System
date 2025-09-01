@@ -7,7 +7,6 @@ from objectDetection import RailwayObjectDetection
 from fcns_track_railway import tmp_match_rail_lines
 from fcn_filter_matching import filter_features_matching
 
-
 # read video
 class ImageIOVideoCapture:
     def __init__(self,name):
